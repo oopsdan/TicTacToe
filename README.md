@@ -20,6 +20,10 @@ Possible improvements for this implementation of Tic Tac Toe include:
 - Implementing an artificial intelligence (AI) opponent to play against the user.
 - Allowing the user to choose the board size, such as 4x4 or 5x5, to increase the difficulty and variability of the game.
 
+## Contributing
+
+This program was created as a learning exercise and is not intended for production use. However, if you would like to contribute to the project, feel free to submit a pull request.
+
 ## License
 
 This project is released under the MIT license. See the `LICENSE` file for more information.
